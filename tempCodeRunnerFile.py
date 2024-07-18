@@ -1,0 +1,1 @@
+s = serial.Serial('/dev/tty.usbmodem1401', 9600)
